@@ -181,7 +181,7 @@ A detailed compliance-focused document explaining:
 
 ### Healthcare Data & AI Platform Vision
 
-**[Read the comprehensive vision](https://rayserrano2735.github.io/Cerebral_Vision/Cerebral_Vision)**
+**[Read the comprehensive vision](Cerebral_Vision)**
 
 A comprehensive strategic vision document that outlines:
 - **AscendAI Platform**: A unified data and AI architecture for mental healthcare
